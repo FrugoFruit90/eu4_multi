@@ -1,0 +1,4 @@
+*.pkl
+*.eu4
+gamestate
+.idea/
